@@ -1,2 +1,3 @@
 # SAMAY
-JUST AN RANDOM WEBPAGE BY RITIK
+this is the first ever webpage i made.
+
